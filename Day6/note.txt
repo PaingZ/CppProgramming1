@@ -1,0 +1,13 @@
+array
+-----
+- collection of data
+- data structure(array, linked list, stack, queue, tree)
+
+data types
+---------
+int, float, char, boolean
+int => 4 bytes => 32 bit => -2,147,483,648 to 2,147,483,647
+unsigned int => 4 bytes => 32 bits => 0 to 4,294,967,295
+long long int => 8 bytes => 64 bits
+
+double

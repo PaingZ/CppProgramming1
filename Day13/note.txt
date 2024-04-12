@@ -1,0 +1,23 @@
+Login & Register
+----------------
+
+1. Login
+2. Register
+0. Exit
+
+struct array ->
+data -> id, name, email, password
+
+1 ->
+Enter your email :
+Enter your password :
+
+Welcome name
+
+2->
+Enter your name :
+Enter your email :
+Enter your password :
+
+password -> 8 char
+

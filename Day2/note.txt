@@ -1,0 +1,24 @@
+Data Types
+---------
+float => 4 bytes
+double => 8 bytes
+
+char => 'a', 'b', '1' => 1 bytes
+string => "National Cyber City"
+
+Operators
+---------
+Arithmetic Operators => +,-,*,/,%
+Logical Operators => &&, ||, !
+Relational Operators => >, <, >=, <=, ==, !=
+Assignment Operators => =, +=, -=, *=, /=, %=
+Unary Operator => ++, --
+Bitwise Operators => &, |
+
+Conditional Statement
+---------------------
+if, else, else if, switch case break
+
+Looping
+-------
+for, while, do while

@@ -1,0 +1,21 @@
+C++ compiled language
+compiler -> g++, gcc, clang, mingw -> native code -> executable file
+
+procedual programming
+sequencial programming
+imperative programming
+OOP => Object Oriented Programming => paradigm
+
+data types
+----------
+int => short, long, unsigned
+
+8 bits => 1 bytes
+1024 bytes => 1KB
+1024 KB => 1 MB
+
+short int => 2 bytes =>  16 bits => 2^16 => 65536/2 => - 32768 to 32767
+int => 4 bytes => 32 bits => 2^32 => 4294967296/2 => -2147483648 to 2147483647
+long long int => 8 bytes => 64 bits => 2^64 => ()/2 =>
+
+unsigned short int => 2 bytes => 16 bits => 2^16 => 0 to 65535
