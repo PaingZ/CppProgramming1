@@ -1,8 +1,8 @@
 Password Validator
 ------------------
 - at least 8 character
-- Capital letter
-- Small letter
-- Number (0-9)
+- Capital letter at least one char
+- Small letter at least one char
+- Number (0-9) at least one number
 
 //Github

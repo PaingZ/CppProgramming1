@@ -1,0 +1,48 @@
+<xml><p>aaaafsafsdaf sadfasdf</p><address>aaaafsafsdaf sadfasdf</address></xml>
+
+//0 <
+xml
+//4 >
+
+//< 5
+p
+//> 7
+
+//29
+/p
+//32
+
+struct Data{
+    string text;//xml
+    int count;
+};
+
+Data Data[50];
+
+
+struct_count = 0;
+for(int i = 0; i<str.length(); i++){
+    //< search
+    int lessThanIndex = 0;//0
+    for(int j = 0; j<afasdf; j++){
+        if(str[j] == '<'){
+            lessThanIndex = j;
+            break;
+        }
+    }
+
+    int greatThanIndex = 0;//4
+    for(int j = 0; j<afasdf; j++){
+        if(str[j] == '<'){
+            greatThanIndex = j;
+        break;
+    }
+
+    int text_index = 0;
+        //xml => 1,2,3
+    for(int j = lessThanIndex+1; j<greatThanIndex; j++){//1 to 3
+        Data[struct_count].text[text_index] = str[j];
+        ++text_index;
+    }
+}
+}

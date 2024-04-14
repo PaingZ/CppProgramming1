@@ -4,4 +4,5 @@ project(CppProgramming1)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(CppProgramming1
-        Day13/program4.cpp)
+        Day15/program6.cpp
+        Day15/program7.cpp)
